@@ -37,7 +37,9 @@ const LandingPage = () => {
           <div className="flex flex-col items-center z-10">
             <h1 className="text-2xl md:text-3xl mt-10">Coding Temple</h1>
             <p className="text-center mt-2">From HTML to Flask and React, my coding skills have been honed through the rigorous training at Coding Temple</p>
+            <a href="https://www.codingtemple.com/">
             <button className="mt-4 bg-button py-2 px-4 border border-purple-500">Learn More</button>
+            </a>
           </div>
         </div>
 
@@ -55,7 +57,9 @@ const LandingPage = () => {
           <div className="flex flex-col items-center z-10 mt-10">
             <h1 className="text-2xl md:text-3xl mt-10">Co Labs</h1>
             <p className="text-center mt-2">Learning to build applications on a full team in a real world setting</p>
+            <a href="https://www.joincolab.io/">
             <button className="mt-4 bg-button py-2 px-4 border border-purple-500">Learn More</button>
+            </a>
           </div>
         </div>
       </div>
@@ -75,7 +79,9 @@ const LandingPage = () => {
           <div className="flex flex-col items-center z-10 mt-10">
             <h1 className="text-2xl md:text-3xl mt-10">University of Phoenix</h1>
             <p className="text-center mt-2">Learning computer science has been a transformative journey, constantly challenging me to think critically and solve complex problems</p>
+            <a href="https://www.phoenix.edu/online-information-technology-degrees/computer-science-bachelors-degree.html">
             <button className="mt-4 bg-button py-2 px-4 border border-purple-500">Learn More</button>
+            </a>
           </div>
         </div>
 
@@ -93,7 +99,9 @@ const LandingPage = () => {
           <div className="flex flex-col items-center z-10 mt-10">
             <h1 className="text-2xl md:text-3xl mt-10">Personal Projects</h1>
             <p className="text-center mt-2">To keep up with coding and practice my learnings. All my projects can be found on my github</p>
+            <a href="https://github.com/pestslayer/">
             <button className="mt-4 bg-button py-2 px-4 border border-purple-500">Learn More</button>
+            </a>
           </div>
         </div>
       </div>
