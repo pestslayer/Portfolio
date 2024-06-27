@@ -14,7 +14,7 @@ const LandingPage = () => {
       </div>
       <div className="text-center md:text-left md:ml-[10%] p-5">
         <h1 className="text-3xl md:text-5xl">I'm a Software Engineer</h1>
-        <p className="text-sm mt-2">fullstack with knowladge in React, Flask, Python, Javascript and much more to</p>
+        <p className="text-sm mt-2">fullstack with knowledge in React, Flask, Python, Javascript and much more to</p>
         <p className="text-sm mt-2">get a full list visit my Linkedin</p>
         <p className="text-sm mt-20">From Coding Temple to Co Lab, and now in my third year of Computer</p>
         <p className="text-sm mt-2">Science at the University of Phoenix, my journey in technology has been</p>
