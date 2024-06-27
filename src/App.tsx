@@ -1,10 +1,10 @@
-import {Routes, Route, HashRouter} from "react-router-dom"
+import {Routes, Route, HashRouter, BrowserRouter} from "react-router-dom"
 import routes from './config/routes'
 import Navbar from "./components/Navbar"
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Navbar />
       <Routes>
         {routes.map((route: any, index: any) => (
@@ -17,7 +17,7 @@ function App() {
           />
         ))}
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   )
 }
 
